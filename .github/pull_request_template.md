@@ -24,3 +24,4 @@ Closes #
 - [ ] As mensagens de commit seguem a convenção *Conventional Commits* (`tipo(escopo): mensagem`).
 - [ ] Nenhuma credencial, senha, token ou chave privada foi incluída no código (arquivos `.env` ignorados no `.gitignore`).
 - [ ] Novas dependências externas adicionadas foram inspecionadas e não possuem alertas críticos de segurança.
+
